@@ -1,6 +1,3 @@
-# CREATOR REDESIGN NUI PACK KRS SCRIPTS (karos7804)
-
-
 ## Credits & License
 
 This project is based on the original **ox_lib** resource:
@@ -85,6 +82,7 @@ This allows proper mouse interaction as soon as the menu opens.
 
 ---
 
+# CREATOR REDESIGN NUI PACK KRS SCRIPTS (karos7804)
 
 
 <img width="1919" height="1076" alt="Screenshot 2026-04-26 110731" src="https://github.com/user-attachments/assets/75ef9742-8bae-411d-a455-43027a5d457f" />
