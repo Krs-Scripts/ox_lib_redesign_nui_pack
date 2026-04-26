@@ -1,3 +1,36 @@
+
+## Credits & License
+
+This project is based on the original **ox_lib** resource:
+[https://github.com/overextended/ox_lib](https://github.com/overextended/ox_lib)
+
+**ox_lib** is licensed under the **LGPL-3.0 License**.
+
+---
+
+### Modifications
+
+This version includes:
+
+* Custom UI redesign
+* Visual and styling changes
+
+No claim is made over the original work. All core functionality and logic remain the property of the original authors.
+
+---
+
+### License Compliance
+
+In accordance with the LGPL-3.0 license:
+
+* The original license and copyright notice are preserved
+* This project clearly states its use of the original work
+* Any modifications are limited to UI/visual aspects
+
+---
+
+---
+
 # ox_lib Menu Fix (Mouse on Enter)
 
 ## Required fix to enable mouse usage in the menu
