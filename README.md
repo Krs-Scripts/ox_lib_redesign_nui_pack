@@ -1,4 +1,54 @@
+# ox_lib Menu Fix (Mouse on Enter)
 
+## Required fix to enable mouse usage in the menu
+
+To properly enable mouse interaction when opening the menu (`on enter`), you need to apply the following changes inside the **ox_lib** menu file.
+
+---
+
+## File path
+
+```
+ox_lib/resource/interface/client/menu.lua
+```
+
+---
+
+## 🔧 Changes to apply
+
+### 1. Inside `confirmSelected`
+
+Find this line:
+
+```lua
+-- lib.resetNuiFocus()
+```
+
+Make sure it is **commented out** (as shown above).
+
+---
+
+### 2. Inside `lib.showMenu`
+
+Find this line:
+
+```lua
+-- lib.setNuiFocus(not menu.disableInput, true)
+```
+
+It must be **commented out**
+
+---
+
+### 3. Use this instead:
+
+```lua
+SetNuiFocus(true, true)
+```
+
+This allows proper mouse interaction as soon as the menu opens.
+
+---
 
 
 
