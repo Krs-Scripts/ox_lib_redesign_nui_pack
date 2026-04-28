@@ -23,7 +23,6 @@ This redesign improves the default ox_lib menu by introducing:
 <img width="100%" src="https://github.com/user-attachments/assets/134ac7fc-5030-4023-a393-9073801e3a2c" />
 <img width="100%" src="https://github.com/user-attachments/assets/d93799a9-99cc-4afa-b3ed-3803483138b5" />
 <img width="100%" src="https://github.com/user-attachments/assets/f64f4b0f-9130-4b30-b6f9-69c0bd848d82" />
-<img width="100%" src="https://github.com/user-attachments/assets/e69f1f7b-3a0b-43bd-b73c-8f242345b144" />
 <img width="100%" src="https://github.com/user-attachments/assets/79d74755-860d-4d97-8fae-5f8c857c408d" />
 <img width="100%" src="https://github.com/user-attachments/assets/0fe1b531-fb0d-4be0-8629-de03f72e018b" />
 <img width="100%" src="https://github.com/user-attachments/assets/5f8695c5-3a57-41a7-9ebf-af9f26d53f08" />
