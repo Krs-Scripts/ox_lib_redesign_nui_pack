@@ -1,6 +1,6 @@
 # 🚀 ox_lib Redesign NUI Pack
 
-A modern, clean and enhanced redesign of the **ox_lib menu UI**, focused on usability, aesthetics and smooth interaction.
+A modern, clean redesign of the ox_lib menu UI, focusing on usability, aesthetics, and fluidity of interaction.
 
 ---
 
