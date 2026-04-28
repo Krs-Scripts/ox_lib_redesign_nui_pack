@@ -76,9 +76,3 @@ SetNuiFocus(true, true)
 * Minimal changes, maximum usability
 
 ---
-
-## 📄 License
-
-Custom usage license. Redistribution or resale is not allowed.
-
----
